@@ -3,6 +3,7 @@ cached_property
 farm-haystack
 fastapi
 uvicorn
+
 farm-haystack[weaviate]
 pypdf
 torch
